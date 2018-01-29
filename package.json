@@ -1,0 +1,23 @@
+{
+  "name": "yb-dv-d3",
+  "version": "1.0.0",
+  "description": "D3 Yoobee Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forrest-wilson/yb-dv-d3.git"
+  },
+  "keywords": [
+    "D3",
+    "Yoobee"
+  ],
+  "author": "Forrest Wilson-Jennings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forrest-wilson/yb-dv-d3/issues"
+  },
+  "homepage": "https://github.com/forrest-wilson/yb-dv-d3#readme"
+}
