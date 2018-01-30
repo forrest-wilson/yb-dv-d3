@@ -9,11 +9,11 @@ $(document).ready(function() {
         barOffset = 5;
 
     function randomNumberGenerator(min, max) {
-        return Math.floor(Math.random() * (max - min + 1)) - min;
+        return Math.floor(Math.random() * (max - min + 1)) + min;
     }
 
     for (var i = 0; i < 10; i++) {
-        moreBarData.push(randomNumberGenerator(0, 400));
+        moreBarData.push(randomNumberGenerator(50, 400));
     }
 
     console.log(moreBarData);
