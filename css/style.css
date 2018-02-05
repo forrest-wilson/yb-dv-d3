@@ -6,3 +6,7 @@
 .active {
     stroke: black;
 }
+
+.circle {
+    transition: 400ms;
+}
